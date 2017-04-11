@@ -1,0 +1,18 @@
+Sources
+http://www.pewsocialtrends.org/2009/05/14/different-age-groups-different-recessions/ (Framework for deciding age groups)
+
+https://www.plot.ly/matplotlib/subplots/ (creating subplots and other plots)
+
+http://seaborn.pydata.org/api.html
+
+http://scikit-learn.org/stable/index.html
+
+https://github.com/udacity/ud120-projects (Used various files as scaffold for preprocessing)
+
+https://discussions.udacity.com/t/webcast-builidng-models-with-gridsearchcv-and-pipelines-thursday-11-feb-2015-at-6pm-pacific-time/47412
+
+http://stackoverflow.com/questions/13413590/how-to-drop-rows-of-pandas-dataframe-whose-value-in-certain-columns-is-nan
+
+http://protips.maxmasnick.com/hide-code-when-sharing-ipython-notebooks
+
+https://www.reference.com/history/many-people-boarded-titanic-eb0060a6feea998
