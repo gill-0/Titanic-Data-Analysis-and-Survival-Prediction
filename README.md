@@ -6,6 +6,7 @@ Data Analysis and ML Classification with Jupyter Notebook
 
 Explored data that contained a subset of passengers on the Titanic and predicted if a passenger would survive based on features in the dataset.
 
+## Final Analysis
 Below is a blocks link created from my Jupyter Notebook which shows the final analysis. 
 
 http://bl.ocks.org/gill-0/raw/c16bd275ea8c55cd6dcb3a5ecdc8b976/
